@@ -51,3 +51,6 @@ python run_dialogue_baseline.py --task redial \
 # in main directory:
 cd data
 python make_conv_data.py --conversations_path ./dialogue/redial_dialogues.csv --output_path ./dialogue/redial --subreddit 'all'
+
+________________________________________________________________________
+In collaboration with Kedar Fitwe and Neel Choudhary
