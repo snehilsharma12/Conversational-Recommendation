@@ -1,3 +1,5 @@
+--Setup--
+Extract the dialogue.rar that is in "data" folder, in place.
 
 --Create an Environment--
 python3 -m venv env
