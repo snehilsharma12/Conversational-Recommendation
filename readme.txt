@@ -9,8 +9,7 @@ pip install -r requirements.txt
 --Create dataset--
 ./download_data.sh
 
-### The redial data is preinstalled a converted for train-test split as the whole process takes around 5 hrs to complete
-on the ICL6 machine ###
+### The redial data is preinstalled a converted for train-test split ###
 ### If you still want to compute that, uncomment the lines in the followling file and run it ###
 ./create_dialogue_dataset.sh
 
